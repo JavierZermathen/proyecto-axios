@@ -1,0 +1,16 @@
+{
+  "personas": [
+    {
+      "nombre": "javi",
+      "apellido": "zermaasas",
+      "localidad": "undefinedasas",
+      "id": 2
+    },
+    {
+      "nombre": "asaa",
+      "apellido": "asa",
+      "localidad": "asa",
+      "id": 3
+    }
+  ]
+}
